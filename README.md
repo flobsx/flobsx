@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   
 
 <br/>  
--->
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 </td></tr></table>  
 
 <br/>  
-
+-->
 
 ## Connect with me  
 <div align="center">
@@ -140,12 +140,14 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+ <!--
             <a href="https://paypal.me/flobsx" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
                     align="center"
                 />
             </a>
+ -->
             <a href="https://www.buymeacoffee.com/flobsx" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
