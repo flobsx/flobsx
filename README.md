@@ -1,5 +1,5 @@
-### <div align="center">👋 Salut, moi c'est Florent, consultant IT senior 👨‍💻</div>  
- 
+[![Welcome, I'm Florent. Seniot IT consultant and DevOps enthusiast](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Welcome%2C+I'm+Florent+%F0%9F%91%8B%F0%9F%8F%BB;Senior+IT+Consultant%2C;and+DevOps+enthusiast!+%E2%99%BE%EF%B8%8F)](https://git.io/typing-svg)
+
 <!--
 **flobsx/flobsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
